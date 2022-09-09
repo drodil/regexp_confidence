@@ -1,0 +1,13 @@
+node_modules
+dist
+cdk.out
+coverage
+junit.xml
+.project
+.settings
+.metals
+.classpath
+.idea
+*.iml
+.env
+.vscode
